@@ -1,3 +1,7 @@
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/majorissue/BuildConfig.java
+ com.majorissue.BuildConfig
 com/majorissue/MainActivity.java
  com.majorissue.MainActivity
 com/majorissue/MainApplication.java
@@ -8,7 +12,3 @@ com/majorissue/ReactNativeFlipper.java
  com.majorissue.ReactNativeFlipper$1
  com.majorissue.ReactNativeFlipper$2
  com.majorissue.ReactNativeFlipper$2$1
-com/majorissue/BuildConfig.java
- com.majorissue.BuildConfig
-com/facebook/react/PackageList.java
- com.facebook.react.PackageList
